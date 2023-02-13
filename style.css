@@ -15,8 +15,24 @@ p{
   color: #fff;
   text-align:center;
 }
+
+footer{
+  margin-bottom: 15px;
+}
+footer a{
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  font-family:"Arvo",sans-serif;
+  padding: 5px 6px;
+  border: 2px solid #DA0463;
+  border-radius: 5px;
+}
+footer a:hover {
+  background-color: #DA0463;
+}
 .set{
-  margin: 10% auto;
+  margin: 5% auto;
 }
 .game-over {
   background-color: red;
